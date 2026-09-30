@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "lastSyncedUTC": "2026-09-30T16:15:44.974004+00:00",
+  "syncedCount": 18,
+  "totalCount": 18,
+  "executionTimeSeconds": 8.89,
+  "zeroKeysUsed": true,
+  "features": [
+    "5Y_series",
+    "15m_intraday",
+    "etf_valuations",
+    "constituent_quotes",
+    "pearson_correlations",
+    "ecb_fx_deltas"
+  ]
+}

@@ -1,0 +1,3 @@
+# Real Market Data Ingestion Dependencies (100% Free / Zero API Keys)
+yfinance>=0.2.40
+requests>=2.31.0

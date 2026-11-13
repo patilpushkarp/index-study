@@ -1,9 +1,9 @@
 {
   "status": "SUCCESS",
-  "lastSyncedUTC": "2026-11-12T02:10:07.558642+00:00",
+  "lastSyncedUTC": "2026-11-13T01:44:03.060100+00:00",
   "syncedCount": 18,
   "totalCount": 18,
-  "executionTimeSeconds": 7.76,
+  "executionTimeSeconds": 12.57,
   "zeroKeysUsed": true,
   "features": [
     "5Y_series",
